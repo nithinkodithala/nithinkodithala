@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **kodithyalanithin153@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/user/AppData/Local/Microsoft/Windows/INetCache/IE/U09MKRXE/NithinGenAI[1].pdf](file:///C:/Users/user/AppData/Local/Microsoft/Windows/INetCache/IE/U09MKRXE/NithinGenAI[1].pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
