@@ -1,3 +1,4 @@
+<p <img src="https://camo.githubusercontent.com/bba96da9b9d5c9ec63c9fcd2616d997ebeba32c80a5a2168e92cb9a9beb4407b/68747470733a2f2f696d616765732e796f757273746f72792e636f6d2f63732f776f726470726573732f323031382f30332f636f64696e672d6a6f622e706e673f666d3d706e67266175746f3d666f726d6174" /></p>
 <h1 align="center">Hi 👋, I'm Nithin Kodithala</h1>
 <h3 align="center">A Passionate Full Stack and AIML developer from India.</h3>
 
